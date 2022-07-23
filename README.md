@@ -1,4 +1,4 @@
-# Online Banking System V2.0.2
+# Online Banking System 
 
 This is an Online Banking Concept created using Django Web Framework.
 
