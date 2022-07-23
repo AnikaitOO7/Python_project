@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Features
 
 * Create Bank Account.
@@ -182,4 +181,3 @@ celery -A banking_system worker -l info
 
 celery -A banking_system beat -l info
 ```
->>>>>>> 38c484b1097f5b6046ab3de840150d289e5fdd6d
